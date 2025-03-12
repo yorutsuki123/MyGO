@@ -1,0 +1,7 @@
+
+[Vv]ideos/
+[Vv]ideo/
+*.webm
+*.mp4
+
+__pycache__/
