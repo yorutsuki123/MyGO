@@ -3,5 +3,6 @@
 [Vv]ideo/
 *.webm
 *.mp4
-
+[Ii]mg/
 __pycache__/
+*.exe
